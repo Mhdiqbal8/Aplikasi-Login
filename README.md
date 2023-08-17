@@ -3,6 +3,8 @@ ini merupakan sebuah pembelajaran membuat website login dengan HTML dan Javascri
 
 Alur Fitur Login:
 1. Memasukkan email dan password
-2. Memvalidasi masukan.
-3. Menampilkan halaman home
+2. Memvalidasi masukan
+3. Memvalidasi pengguna dengan deteksi wajah
+4. Memasukkan nama ibu untuk validasi
+4. Menampilkan halaman home
 
